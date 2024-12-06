@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on event-driven simulations and gesture recognition techniques.
+- 🌱 I’m currently learning mobile robotics, novel NN architectures and analog computing.
+- 👯 I’m looking to collaborate on open source scientific software.
+
 <!--
 **tmatos/tmatos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
